@@ -1,0 +1,4 @@
+pyserial
+RPi.GPIO
+picamera2
+ultralytics
